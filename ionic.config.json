@@ -1,0 +1,7 @@
+{
+  "name": "danibeli",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
